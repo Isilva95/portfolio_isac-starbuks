@@ -203,3 +203,19 @@ header .line {
   background-image: url('../images/bg3.jpg');
   background-position: left;
 }
+
+/* Área 5 do Conteúdo */
+.area5 {
+  background-image: url('../images/bg4.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+}
+
+/* Rodapé do Site */
+footer {
+  background-color: #333333;
+  color: #FFFFFF;
+  padding: 80px;
+  text-align: center;
+}
