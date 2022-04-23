@@ -108,6 +108,10 @@ header .line {
   border: 6px solid #117050;
   border-radius: 50%;
   margin-right: 40px;
+  cursor: pointer;
+}
+.banner--images img:hover {
+  border-radius: 25%;
 }
 
 /* Área 1 do Conteúdo */
